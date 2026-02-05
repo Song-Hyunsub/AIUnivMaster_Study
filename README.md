@@ -2,7 +2,7 @@
 All about Study
 
 
-## 2026 Feb
+## Feb 2026
 
 ### 1st Week: AI Basic Semiar  
 ANN, CNN, RNN, Transformer  
